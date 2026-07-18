@@ -1,6 +1,6 @@
 # Babel - JavaScript Compiler for Modern Web Development
 
-![Babel compiler transforming JavaScript code](https://miro.medium.com/v2/resize:fit:1400/1*fF1nJP8NLNjvKZNZ1LwtKw.png)
+![Babel compiler transforming JavaScript code](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSNvvzYpy8SoHEnaqFbBPHOPkze_tak76ntVjjDy7XwQLxoUFmoAs-qlG&s=10)
 
 ## Why Babel Matters for JavaScript Projects
 
